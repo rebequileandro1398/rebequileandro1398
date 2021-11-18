@@ -9,12 +9,12 @@
 
  
 - Por otra parte en el Back tengo conocimiento sobre tecnologias como **Node.js, Express, Sequelize y PostgreSQL** 
-- 
+
 <img src= './img/node.png' width= 200/> <img src= './img/postgres.png' width= 80/>
 
 
 ### 📲 Contactos 
-<a href="rebequileandro@gmail.com" target="_blank"><img src= './img/Gmail.png' width= 60/></a>
+<a href="mailto:rebequileandro@gmail.com" target="_blank"><img src= './img/Gmail.png' width= 60/></a>
 <a href="https://www.linkedin.com/in/leandro-rebequi-dev/" target="_blank"><img src= './img/linkedin.png' width= 30/></a>
 <!---
 rebequileandro1398/rebequileandro1398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
