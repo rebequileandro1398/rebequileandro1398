@@ -14,8 +14,8 @@
 
 
 ### 📲 Contactos 
-<a href="mailto:rebequileandro@gmail.com" target="_blank"><img src= './img/Gmail.png' width= 60/></a>
-<a href="https://www.linkedin.com/in/leandro-rebequi-dev/" target="_blank"><img src= './img/linkedin.png' width= 30/></a>
+<a href="mailto:rebequileandro@gmail.com"><img src= './img/Gmail.png' width= 60/></a>
+<a href="https://www.linkedin.com/in/leandro-rebequi-dev/"><img src= './img/linkedin.png' width= 30/></a>
 <!---
 rebequileandro1398/rebequileandro1398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
