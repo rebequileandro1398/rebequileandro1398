@@ -9,6 +9,7 @@
 
  
 - Por otra parte en el Back tengo conocimiento sobre tecnologias como **Node.js, Express, Sequelize y PostgreSQL** 
+- 
 <img src= './img/node.png' width= 200/> <img src= './img/postgres.png' width= 80/>
 
 
