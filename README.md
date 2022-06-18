@@ -5,12 +5,12 @@
 ### 🖥 Mis Principales Tecnologias
 - Ultimamente me estoy dedicando mas a la parte de Front-End con tecnologias como **JavaScript, HTML, Css, React, Redux y React Native** entre otros. 
 
-    <img src='./img/javascript.gif' width= "80"/> <img src='./img/redux.png' width= "80"/> <img src='./img/react.gif' width= "80"/>
+    <img src='./img/javascript.gif' width= "80"/>       <img src='./img/redux.png' width= "80"/>        <img src='./img/react.gif' width= "80"/>
 
  
 - Por otra parte en el Back tengo conocimiento sobre tecnologias como **Node.js, Express, Sequelize y PostgreSQL** 
 
-<img src= './img/node.png' width= 200/> <img src= './img/postgres.png' width= 80/>
+    <img src= './img/node.png' width= "90"/>        <img src= './img/postgres.png' width= 80/>      <img src= './img/sequelize.png' width= 80/> 
 
 
 ### 📲 Contactos 
